@@ -1,0 +1,20 @@
+# Local browser QA artifacts
+.edge-*/
+.edge-profile*/
+qa-screenshots/
+tools/
+.ssh_known_hosts
+
+# Source/reference assets kept locally
+product/
+Sheff/
+eco-biker-bakery/
+dist/
+
+# Local packaged builds
+*.zip
+
+# Dependencies and OS noise
+node_modules/
+.DS_Store
+Thumbs.db
